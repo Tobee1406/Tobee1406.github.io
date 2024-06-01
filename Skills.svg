@@ -10,7 +10,7 @@
      </style>
      
      <div class="table_wrapper">
-       <table style="table-layout: fixed ; width: 100%;">
+       <table>
          <tr>
            <td>C#</td>
            <td>EnergyPRO</td>
