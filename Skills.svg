@@ -1,0 +1,13 @@
+<style> 
+ .table_wrapper{
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+</style>
+
+<div class="table_wrapper">
+<table>
+...
+</table>
+</div>
