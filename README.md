@@ -61,6 +61,9 @@
 - Networking
 
 ### Projects
-**Unity Projects:**
+**Raspberry Pi:**
+BadUSB [soon]
+
+**Unity:**
 
 - [Simple Waypoint Script](https://github.com/Tobee1406/Simple-Waypoint-Script.git)
