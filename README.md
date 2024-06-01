@@ -45,7 +45,7 @@
 - Economics
 
 <div>
-  <b>Intership in TD-K A/S</b> (<I>2019</i>)
+  <b style="color:black;">Intership in TD-K A/S</b> (<I>2019</i>)
   <img src="/assets/img/TD-KLogo.png" width=40>
 </div>
 
