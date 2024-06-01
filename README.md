@@ -63,7 +63,7 @@
 ### Projects
 **Raspberry Pi:**
 
-- BadUSB [soon]
+- Pico (W) BadUSB [soon]
 
 **Unity:**
 
