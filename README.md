@@ -1,4 +1,4 @@
-# tobee1406.github.io
+# Tobee1406.github.io
 
 #### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL
 
@@ -9,10 +9,10 @@
 
 ### Experience
 **Catering**
--
--
+- Catering
+- Customer Support
 **Cashier**
--
--
+- Customer Support
+- Economics
 
 ### Projects
