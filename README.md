@@ -1,13 +1,6 @@
 # Tobee1406.github.io
 
 #### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity
-<style> 
- .table_wrapper{
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-}
-</style>
 <div class="table_wrapper">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
