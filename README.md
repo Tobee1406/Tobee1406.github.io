@@ -6,6 +6,7 @@
 - Mathematics & Physics, HTX (2019-2022)
 
 ### Experience
-
+**Catering**
+**Cashier**
 
 ### Projects
