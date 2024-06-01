@@ -8,11 +8,11 @@
 - HTX, Mathematics & Physics | ZBC Slagelse (_2019-2022_)
 
 ### Experience
-**Catering**
+**Catering** (_2021-2023_)
 - Catering
 - Customer Support
 
-**Cashier**
+**Cashier** (_2019-2021_)
 - Customer Support
 - Economics
 
