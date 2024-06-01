@@ -3,14 +3,28 @@
 #### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>C#</td>
+    <td>EnergyPRO</td>
+    <td>Excel</td>
+    <td>Java</td>
+    <td>JSON</td>
+    <td>LeanHeat</td>
+    <td>MATLAB</td>
+    <td>Python</td>
+    <td>SQL</td>
+    <td>Unity</td>
   </tr>
   <tr>
-    <td><img src="/assets/img/CsharpLogo.png" width=50 height=50></td>
-    <td><img src="/assets/img/EnergyproLogo.svg" width=50 height=50></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=50 height=50></td>
+    <td><img src="/assets/img/CsharpLogo.png" height=50></td>
+    <td><img src="/assets/img/EnergyproLogo.svg" height=50></td>
+    <td><img src="/assets/img/ExcelLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/JavaLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/JsonLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/LeanheatLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/MatlabLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/PythonLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/SQLLogo.png" width=50 height=50></td>
+    <td><img src="/assets/img/UnityLogo.svg" width=50 height=50></td>
   </tr>
  </table>
 
