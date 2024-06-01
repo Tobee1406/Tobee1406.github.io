@@ -1,7 +1,7 @@
 # Tobee1406.github.io
 
 #### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity
-<div style="overflow-x:auto;">
+<div style="overflow:auto;">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
       <td>C#</td>
