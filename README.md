@@ -36,11 +36,18 @@
 - HTX, Mathematics & Physics | ZBC Slagelse (_2019-2022_)
 
 ### Experience
-**Catering** (_2021-2023_)
+<div>
+<b style="color:black;">Catering</b> (<I>2021-2023</i>)
+</div>
+  
 - Catering
 - Customer Support
 
-**Cashier** (_2019-2021_)
+<div>
+<b style="color:black;">Cashier</b> (<I>2019-2021</i>)
+  <img src="/assets/img/DaglibrugsenLogo.png" width=40>
+</div>
+
 - Customer Support
 - Economics
 
