@@ -1,6 +1,6 @@
 # Tobee1406.github.io
 
-#### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity
+#### Technical Skills: <!-- C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity -->
 <div class="table_wrapper">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
