@@ -62,7 +62,8 @@
 
 ### Projects
 **Raspberry Pi:**
-BadUSB [soon]
+
+- BadUSB [soon]
 
 **Unity:**
 
