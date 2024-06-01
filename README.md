@@ -29,6 +29,7 @@
     </tr>
    </table>
 </div>
+
 ### Education
 - MSc, Energy Systems | Southern University of Denmark (_2025-2027_)
 - BSc, Energy Systems | Southern University of Denmark (_2022-2025_)
