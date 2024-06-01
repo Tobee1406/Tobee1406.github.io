@@ -1,40 +1,42 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-   <style> 
-    .table_wrapper{
-       display: block;
-       overflow-x: auto;
-       white-space: nowrap;
-   }
-   </style>
-   
-   <div class="table_wrapper">
-     <table style="table-layout: fixed ; width: 100%;">
-       <tr>
-         <td>C#</td>
-         <td>EnergyPRO</td>
-         <td>Excel</td>
-         <td>Java</td>
-         <td>JSON</td>
-         <td>LeanHeat</td>
-         <td>MATLAB</td>
-         <td>Python</td>
-         <td>SQL</td>
-         <td>Unity</td>
-       </tr>
-       <tr>
-         <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
-         <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
-         <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
-         <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
-       </tr>
-      </table>
-   </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+     <style> 
+      .table_wrapper{
+         display: block;
+         overflow-x: auto;
+         white-space: nowrap;
+     }
+     </style>
+     
+     <div class="table_wrapper">
+       <table style="table-layout: fixed ; width: 100%;">
+         <tr>
+           <td>C#</td>
+           <td>EnergyPRO</td>
+           <td>Excel</td>
+           <td>Java</td>
+           <td>JSON</td>
+           <td>LeanHeat</td>
+           <td>MATLAB</td>
+           <td>Python</td>
+           <td>SQL</td>
+           <td>Unity</td>
+         </tr>
+         <tr>
+           <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
+           <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
+           <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
+           <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
+         </tr>
+        </table>
+     </div>
+    </div>
   </foreignObject>
 </svgg
