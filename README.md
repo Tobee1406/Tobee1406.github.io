@@ -15,16 +15,16 @@
     <td>Unity</td>
   </tr>
   <tr>
-    <td><img src="/assets/img/CsharpLogo.png" width=50 ></td>
-    <td><img src="/assets/img/EnergyproLogo.svg" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/ExcelLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/JavaLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/JsonLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/LeanheatLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/MatlabLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/PythonLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/SQLLogo.png" width=50 alt="W3Schools.com"></td>
-    <td><img src="/assets/img/UnityLogo.svg" width=50 alt="W3Schools.com"></td>
+    <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
+    <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
+    <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
+    <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
   </tr>
  </table>
 
