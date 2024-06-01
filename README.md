@@ -1,6 +1,6 @@
 # Tobee1406.github.io
 
-#### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL
+#### Technical Skills: C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity
 
 ### Education
 - MSc, Energy Systems | Southern University of Denmark (_2025-2027_)
