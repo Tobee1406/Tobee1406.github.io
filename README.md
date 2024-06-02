@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="/assets/img/TobeeLogo.png" href="favicon.ico">
+
 # Tobee1406.github.io
 
 #### Technical Skills: <!-- C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity -->
