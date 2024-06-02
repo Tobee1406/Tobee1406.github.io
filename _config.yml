@@ -2,7 +2,9 @@ title: Tobias (Tobee) Hansen
 logo: /assets/img/Tobee_GG_logo.jpeg
 #description text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have o
 background: dark
 favicon: "favicon.png"
 google_analytics: G-Y3XEH801X3
