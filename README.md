@@ -1,6 +1,6 @@
 <head>
   <link rel="icon" type="image/png" href="favicon.png?">
-  <link href="https://Tobee1406.github.io/style.css" type="text/css" rel="stylesheet">
+  <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 
 # Tobee1406.github.io
