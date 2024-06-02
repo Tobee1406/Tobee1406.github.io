@@ -9,6 +9,7 @@
 <div class="table_wrapper">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
+      <td>Blender</td>
       <td>C#</td>
       <td>EnergyPRO</td>
       <td>Excel</td>
@@ -25,6 +26,7 @@
       <td>Unity</td>
     </tr>
     <tr>
+      <td align="center"><img src="/assets/img/BlenderLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
