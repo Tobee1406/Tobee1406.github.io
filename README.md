@@ -1,4 +1,6 @@
+<head>
 <link rel="shortcut icon" type="image/png" href="Tobee_GG_logo.png">
+</head>
 
 # Tobee1406.github.io
 
