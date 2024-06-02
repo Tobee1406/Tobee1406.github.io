@@ -98,13 +98,24 @@
 </div>
 
 ### Projects
+**Blender:**
+
+- Black Hole
+- Ocean
+- Planet
+- Star Wars
+
 **Raspberry Pi:**
 
 - Pico (W) BadUSB [Soon]
 
 **Unity:**
 
+- Cyber Security Game
+- Nightmare Game
 - [Simple Waypoint Script](https://github.com/Tobee1406/Simple-Waypoint-Script.git)
+- The Lighthouse Keeper
+- Zombie Game
 
 **Other:**
 
