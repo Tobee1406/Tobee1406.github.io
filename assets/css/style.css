@@ -2,13 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
-@import "fonts";
-@import "rouge-github";
 
-body {
-  background-color: #323949;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; /* Full width */
+  background-color: #ddd; /* Grey background */
 }
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.danish {width: 90%; background-color: #04AA6D;} /* Green */
+.english {width: 80%; background-color: #2196F3;} /* Blue */
+.russian {width: 65%; background-color: #f44336;} /* Red */
+.german {width: 60%; background-color: #808080;} /* Dark Grey */
