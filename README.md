@@ -43,6 +43,11 @@
    </table>
 </div>
 
+### Education
+- MSc, Energy Systems | Southern University of Denmark (_2025-2027_)
+- BSc, Energy Systems | Southern University of Denmark (_2022-2025_)
+- HTX, Mathematics & Physics | ZBC Slagelse (_2019-2022_)
+
 ### Language
 <div>
   <table>
@@ -64,11 +69,6 @@
     </tr>
   </table>
 </div>
-
-### Education
-- MSc, Energy Systems | Southern University of Denmark (_2025-2027_)
-- BSc, Energy Systems | Southern University of Denmark (_2022-2025_)
-- HTX, Mathematics & Physics | ZBC Slagelse (_2019-2022_)
 
 ### Experience
 <div>
