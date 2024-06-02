@@ -19,7 +19,7 @@
   color: white; /* White text color */
 }
 
-.danish {width: 90%; background-color: #04AA6D;} /* Green */
-.english {width: 80%; background-color: #2196F3;} /* Blue */
-.russian {width: 65%; background-color: #f44336;} /* Red */
-.german {width: 60%; background-color: #808080;} /* Dark Grey */
+.danish {width: 100%; background-color: #04AA6D;} /* Green */
+.english {width: 95%; background-color: #2196F3;} /* Blue */
+.russian {width: 20%; background-color: #f44336;} /* Red */
+.german {width: 15%; background-color: #808080;} /* Dark Grey */
