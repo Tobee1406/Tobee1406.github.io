@@ -98,7 +98,7 @@
 ### Projects
 **Raspberry Pi:**
 
-- Pico (W) BadUSB [soon]
+- Pico (W) BadUSB [Soon]
 
 **Unity:**
 
@@ -106,5 +106,5 @@
 
 **Other:**
 
-- BAC App [Drunky]()
+- BAC App [Drunky](https://github.com/Tobee1406/Drunky.git)
 <img src="/assets/img/DrunkyAppLogo.png" width=100>
