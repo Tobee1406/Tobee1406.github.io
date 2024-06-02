@@ -12,8 +12,10 @@
       <td>LaTeX</td>
       <td>LeanHeat</td>
       <td>MATLAB</td>
+      <td>PowerPoint</td>
       <td>Python</td>
       <td>SQL</td>
+      <td>Word</td>
       <td>Unity</td>
     </tr>
     <tr>
@@ -25,8 +27,10 @@
       <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/PowerpointLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/Word.png" width=50></td>
       <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
     </tr>
    </table>
