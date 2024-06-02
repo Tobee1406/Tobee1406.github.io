@@ -1,5 +1,6 @@
 <head>
-<link rel="icon" type="image/png" href="./favicon.png?">
+  <link rel="icon" type="image/png" href="favicon.png?">
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 # Tobee1406.github.io
