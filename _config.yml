@@ -3,4 +3,4 @@ logo: /assets/img/Tobee_GG_logo.jpeg
 #description text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-background: 323949
+background-color: '#323949'
