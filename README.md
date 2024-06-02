@@ -42,6 +42,28 @@
    </table>
 </div>
 
+### Language
+<p>Danish</p>
+<div class="container">
+  <div class="skills danish">100%</div>
+</div>
+
+<p>English</p>
+<div class="container">
+  <div class="skills english">95%</div>
+</div>
+
+<p>Russian</p>
+<div class="container">
+  <div class="skills russian">20%</div>
+</div>
+
+<p>German</p>
+<div class="container">
+  <div class="skills german">15%</div>
+</div>
+
+
 ### Education
 - MSc, Energy Systems | Southern University of Denmark (_2025-2027_)
 - BSc, Energy Systems | Southern University of Denmark (_2022-2025_)
