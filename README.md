@@ -44,24 +44,25 @@
 </div>
 
 ### Language
-<p>Danish</p>
-<div class="container">
-  <div class="skills danish">100%</div>
-</div>
-
-<p>English</p>
-<div class="container">
-  <div class="skills english">95%</div>
-</div>
-
-<p>Russian</p>
-<div class="container">
-  <div class="skills russian">20%</div>
-</div>
-
-<p>German</p>
-<div class="container">
-  <div class="skills german">15%</div>
+<div>
+  <table>
+    <tr>
+      <th>Danish</th>
+      <th>100%</th>
+    </tr>
+    <tr>
+      <th>English</th>
+      <th>95%</th>
+    </tr>
+    <tr>
+      <th>Russian</th>
+      <th>20%</th>
+    </tr>
+    <tr>
+      <th>German</th>
+      <th>20%</th>
+    </tr>
+  </table>
 </div>
 
 ### Education
