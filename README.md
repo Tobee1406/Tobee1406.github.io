@@ -1,5 +1,14 @@
 <head>
 <link rel="icon" type="image/png" href="./favicon.png?">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3XEH801X3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y3XEH801X3');
+</script>
 </head>
 
 # Tobee1406.github.io
