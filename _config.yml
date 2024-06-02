@@ -1,7 +1,8 @@
-Title: Tobias (Tobee) Hansen
+title: Tobias (Tobee) Hansen
 logo: /assets/img/Tobee_GG_logo.jpeg
 #description text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
 background: dark
 favicon: "favicon.png"
+google_analytics: G-Y3XEH801X3
