@@ -30,7 +30,7 @@
       <td align="center"><img src="/assets/img/PowerpointLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
-      <td align="center"><img src="/assets/img/Word.png" width=50></td>
+      <td align="center"><img src="/assets/img/WordLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
     </tr>
    </table>
