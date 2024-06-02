@@ -74,4 +74,4 @@
 **Other:**
 
 - BAC App [Drunky]()
-<img src="/assets/img/DrunkyLogo.png" width=50>
+<img src="/assets/img/DrunkyAppLogo.jpg" width=100>
