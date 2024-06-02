@@ -9,6 +9,7 @@
       <td>Excel</td>
       <td>Java</td>
       <td>JSON</td>
+      <td>LaTeX</td>
       <td>LeanHeat</td>
       <td>MATLAB</td>
       <td>Python</td>
@@ -21,6 +22,7 @@
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
