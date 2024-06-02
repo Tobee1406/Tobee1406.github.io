@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="assets/img/Tobee_GG_logo.png" href="favicon.ico">
+<link rel="shortcut icon" type="image/png" href="Tobee_GG_logo.png">
 
 # Tobee1406.github.io
 
