@@ -48,28 +48,6 @@
 - BSc, Energy Systems | Southern University of Denmark (_2022-2025_)
 - HTX, Mathematics & Physics | ZBC Slagelse (_2019-2022_)
 
-### Language
-<div>
-  <table>
-    <tr>
-      <th>Danish</th>
-      <th>100%</th>
-    </tr>
-    <tr>
-      <th>English</th>
-      <th>95%</th>
-    </tr>
-    <tr>
-      <th>Russian</th>
-      <th>20%</th>
-    </tr>
-    <tr>
-      <th>German</th>
-      <th>20%</th>
-    </tr>
-  </table>
-</div>
-
 ### Experience
 <div>
 <b style="color:black;">Catering</b> (<I>2021-2023</i>)
@@ -94,6 +72,28 @@
 - Cyber Security
 - IT
 - Networking
+
+### Language
+<div>
+  <table>
+    <tr>
+      <th>Danish</th>
+      <th>100%</th>
+    </tr>
+    <tr>
+      <th>English</th>
+      <th>95%</th>
+    </tr>
+    <tr>
+      <th>Russian</th>
+      <th>20%</th>
+    </tr>
+    <tr>
+      <th>German</th>
+      <th>20%</th>
+    </tr>
+  </table>
+</div>
 
 ### Projects
 **Raspberry Pi:**
