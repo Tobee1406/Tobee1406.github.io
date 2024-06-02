@@ -11,6 +11,7 @@
       <td>JSON</td>
       <td>LaTeX</td>
       <td>LeanHeat</td>
+      <td>Maple</td>
       <td>MATLAB</td>
       <td>PowerPoint</td>
       <td>Python</td>
@@ -26,6 +27,7 @@
       <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/MapleLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PowerpointLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
