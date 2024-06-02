@@ -1,5 +1,5 @@
 <head>
-<link rel="shortcut icon" type="image/png" href="./assets/img/favicon.png?">
+<link rel="shortcut icon" type="image/png" href="favicon.png?">
 </head>
 
 # Tobee1406.github.io
