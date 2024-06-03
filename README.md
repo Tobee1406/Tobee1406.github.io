@@ -29,6 +29,7 @@
       <td>MATLAB</td>
       <td>Photoshop</td>
       <td>PowerPoint</td>
+      <td>Premiere Pro</td>
       <td>Python</td>
       <td>SQL</td>
       <td>Word</td>
@@ -55,6 +56,7 @@
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PhotoshopLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PowerpointLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/PremiereProLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/WordLogo.png" width=50></td>
