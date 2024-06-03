@@ -13,6 +13,7 @@
       <td>C#</td>
       <td>EnergyPRO</td>
       <td>Excel</td>
+      <td>HTML</td>
       <td>Java</td>
       <td>JSON</td>
       <td>LaTeX</td>
@@ -30,6 +31,7 @@
       <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/HtmlLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
