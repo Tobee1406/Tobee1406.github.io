@@ -9,12 +9,15 @@
 <div class="table_wrapper">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
+      <td>Ableton</td>
       <td>Blender</td>
       <td>C#</td>
       <td>CSS</td>
       <td>EnergyPRO</td>
       <td>Excel</td>
+      <td>GarageBand</td>
       <td>HTML</td>
+      <td>iMovie</td>
       <td>Java</td>
       <td>JSON</td>
       <td>LaTeX</td>
@@ -29,12 +32,15 @@
       <td>Unity</td>
     </tr>
     <tr>
+      <td align="center"><img src="/assets/img/AbletonLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/BlenderLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CssLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/GaragebandLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/HtmlLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/ImovieLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/JavaLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
