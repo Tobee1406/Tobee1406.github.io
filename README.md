@@ -11,6 +11,7 @@
     <tr>
       <td>Blender</td>
       <td>C#</td>
+      <td>CSS</td>
       <td>EnergyPRO</td>
       <td>Excel</td>
       <td>HTML</td>
@@ -29,6 +30,7 @@
     <tr>
       <td align="center"><img src="/assets/img/BlenderLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
+      <td align="center"><img src="/assets/img/CssLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/HtmlLogo.png" width=50></td>
