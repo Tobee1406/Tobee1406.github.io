@@ -10,6 +10,7 @@
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
       <td>Ableton</td>
+      <td>After Effects</td>
       <td>Blender</td>
       <td>C#</td>
       <td>CSS</td>
@@ -33,6 +34,7 @@
     </tr>
     <tr>
       <td align="center"><img src="/assets/img/AbletonLogo.png" width=50 ></td>
+      <td align="center"><img src="/assets/img/AfterEffectsLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/BlenderLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CsharpLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/CssLogo.png" width=50 ></td>
