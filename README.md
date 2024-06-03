@@ -21,6 +21,7 @@
       <td>LeanHeat</td>
       <td>Maple</td>
       <td>MATLAB</td>
+      <td>Photoshop</td>
       <td>PowerPoint</td>
       <td>Python</td>
       <td>SQL</td>
@@ -40,6 +41,7 @@
       <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MapleLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/PhotoshopLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PowerpointLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PythonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
