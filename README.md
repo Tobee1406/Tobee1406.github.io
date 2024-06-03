@@ -16,6 +16,7 @@
       <td>CSS</td>
       <td>EnergyPRO</td>
       <td>Excel</td>
+      <td>Fusion 360</td>
       <td>GarageBand</td>
       <td>HTML</td>
       <td>iMovie</td>
@@ -41,6 +42,7 @@
       <td align="center"><img src="/assets/img/CssLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/EnergyproLogo.svg" width=50></td>
       <td align="center"><img src="/assets/img/ExcelLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/Fusion360Logo.png" width=50></td>
       <td align="center"><img src="/assets/img/GaragebandLogo.png" width=50 ></td>
       <td align="center"><img src="/assets/img/HtmlLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/ImovieLogo.png" width=50 ></td>
