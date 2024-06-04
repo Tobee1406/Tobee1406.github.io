@@ -125,6 +125,9 @@
 - Planet
 - Star Wars
 
+**Python:**
+- [Image Grabber](https://github.com/Tobee1406/Python/tree/main/Codes/ImageGrabber#image-grabber)
+
 **Raspberry Pi:**
 
 - Pico (W) BadUSB [Soon]
