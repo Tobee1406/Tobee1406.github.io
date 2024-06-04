@@ -24,7 +24,7 @@
       <td>JSON</td>
       <td>LaTeX</td>
       <td>LeanHeat</td>
-      <td>Linux</td>
+      <td>Kali Linux</td>
       <td>Maple</td>
       <td>MATLAB</td>
       <td>Photoshop</td>
@@ -51,7 +51,7 @@
       <td align="center"><img src="/assets/img/JsonLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LatexLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/LeanheatLogo.png" width=50></td>
-      <td align="center"><img src="/assets/img/LinuxLogo.png" width=50></td>
+      <td align="center"><img src="/assets/img/KaliLinuxLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MapleLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/MatlabLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/PhotoshopLogo.png" width=50></td>
