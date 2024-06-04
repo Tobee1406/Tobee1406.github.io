@@ -143,4 +143,4 @@
 **Other:**
 
 - BAC App [Drunky](https://github.com/Tobee1406/Drunky.git)
-<img src="/assets/img/DrunkyAppLogo.png" width=100>
+<a href="https://github.com/Tobee1406/Drunky.git"><img src="/assets/img/DrunkyAppLogo.png" width=100></a>
