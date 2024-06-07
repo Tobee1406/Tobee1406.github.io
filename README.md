@@ -126,7 +126,9 @@
 - Star Wars
 
 **Lists:**
+- [Awesome AI](https://github.com/Tobee1406/Awesome-AI.git)
 - [Awesome Google Dorks](https://github.com/Tobee1406/Awesome-Google-Dorks.git)
+- [Awesome OSINT](https://github.com/Tobee1406/Awesome-OSINT.git)
 
 **Python:**
 - [Image Grabber](https://github.com/Tobee1406/Python/tree/main/Codes/ImageGrabber#image-grabber)
