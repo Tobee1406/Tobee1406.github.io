@@ -117,7 +117,7 @@
   </table>
 </div>
 
-### Projects
+## Projects
 **Blender:**
 
 - Black Hole
