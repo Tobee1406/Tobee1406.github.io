@@ -62,7 +62,7 @@
       <td align="center"><img src="/assets/img/SQLLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/WordLogo.png" width=50></td>
       <td align="center"><img src="/assets/img/UnityLogo.svg" width=50></td>
-      <td align="center"><img src="/assets/img/XdLogo.svg" width=50></td>
+      <td align="center"><img src="/assets/img/XdLogo.png" width=50></td>
     </tr>
    </table>
 </div>
