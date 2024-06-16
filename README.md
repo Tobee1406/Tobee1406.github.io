@@ -97,6 +97,15 @@
 - IT
 - Networking
 
+<div>
+  <b style="color:black;">Took part in Science Talent Genius</b> (<I>2016-2017</i>)
+  <img src="/assets/img/ScienceTalent.svg" width=40>
+</div>
+
+- Teamwork
+- Science
+- Thinking outside of the box
+
 ### Language
 <div>
   <table>
